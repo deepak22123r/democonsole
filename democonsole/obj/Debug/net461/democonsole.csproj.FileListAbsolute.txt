@@ -1,0 +1,9 @@
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\net461\democonsole.exe.config
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\net461\democonsole.exe
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\net461\democonsole.pdb
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.csprojAssemblyReference.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.csproj.CoreCompileInputs.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.AssemblyInfoInputs.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.AssemblyInfo.cs
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.exe
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\net461\democonsole.pdb

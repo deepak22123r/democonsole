@@ -1,0 +1,11 @@
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\netcoreapp2.1\democonsole.deps.json
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\netcoreapp2.1\democonsole.runtimeconfig.json
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\netcoreapp2.1\democonsole.runtimeconfig.dev.json
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\netcoreapp2.1\democonsole.dll
+E:\projects\Roshni_Work\democonsole\democonsole\bin\Debug\netcoreapp2.1\democonsole.pdb
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.csprojAssemblyReference.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.csproj.CoreCompileInputs.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.AssemblyInfoInputs.cache
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.AssemblyInfo.cs
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.dll
+E:\projects\Roshni_Work\democonsole\democonsole\obj\Debug\netcoreapp2.1\democonsole.pdb
