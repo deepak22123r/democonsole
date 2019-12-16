@@ -12,7 +12,7 @@ namespace democonsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-           
+            string add = "";
             Process.Start(@"E:\projects\Roshni_Work\democonsole\normalconsole\bin\Debug\normalconsole.exe");
           //  Assembly asm = Assembly.LoadFrom(@"E:\projects\Roshni_Work\democonsole\democore2\bin\Debug\netcoreapp2.2\democore2.dll");
 
